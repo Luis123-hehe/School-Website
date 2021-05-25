@@ -1,0 +1,123 @@
+body
+{
+    text-align: center;
+   
+    color: black;
+}
+
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+#videos iframe {
+    width: 80%;
+}
+
+.my_nav_bar {
+    position: sticky;
+    -webkit-position:sticky;
+    top:0;
+    z-index:99999;
+    background:linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+input {
+    background: grey;
+}
+
+li {
+    color: darkblue;
+}
+
+img{
+    max-height: 100%;
+    max-width: 500;
+    border-color: darkblue;
+    border-style: solid;
+}
+
+#logo{
+    margin-right: 1700;
+    width:150;
+}
+
+#msr{
+    width: 300px;
+    height:150;
+}
+
+#h1{
+    width: 800px;
+      
+}
+
+#ms{
+    width:100px;
+    height:100px;
+}
+
+#pa{
+   
+    font-size:20;
+    text-align: left
+}
+
+#pa2{
+    
+    font-size:25;
+    align-content: center ;
+    width: 200;   
+}
+
+#pelow{
+    font-size: 15px;
+}
+
+#peloyc{
+    font-size: 15;
+}
+
+#menu{
+    color:black;
+}
+
+#menu:hover{
+    color:white;
+}
